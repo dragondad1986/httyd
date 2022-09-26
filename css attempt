@@ -9,18 +9,18 @@ body {
 background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1tZnVvpLVoFHY_24JOD6TBtGLQ2bs-Y7EfQ&usqp=CAU") fixed;
 background-repeat: no-repeat;
 background-size: cover;
-color: #000;
+color: #DFB192;
 }
  
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
-color: #000;
+color: #D34141;
 }
  
 h1, h3 , .sidebar h3 {
-font-family: Arial !important;
+font-family: Apple Chancery !important;
 text-align: left;
-color: #000;
-border-bottom: 1px solid #000;
+color: #403A3A;
+border-bottom: 1px solid #31105F;
 }
  
 /* Buttons */
